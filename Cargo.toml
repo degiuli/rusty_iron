@@ -1,0 +1,14 @@
+[package]
+name = "rusty_iron"
+version = "0.1.0"
+authors = ["Fábio Lourenção De Giuli <degiuli@gmail.com>"]
+description = "Rust study repository"
+include = ["src/**/*", "Cargo.toml"]
+publish = false
+homepage = "https://github.com/degiuli/rusty_iron"
+repository = "https://github.com/degiuli/rusty_iron"
+readme = "README.md"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
